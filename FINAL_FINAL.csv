@@ -1,0 +1,557 @@
+Station Name,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,City,State
+"Secretariat, Amaravati - APPCB",112,92,54,67,85,109,154,122,149,122,112,107,137,122,109,128,141,83,Amaravati,Andhra Pradesh
+"Gulzarpet, Anantapur - APPCB",44,51,32,61,32,50,66,85,92,99,86,117,117,141,86,122,104,128,Anantapur,Andhra Pradesh
+"Gangineni Cheruvu, Chittoor - APPCB",77,114,55,55,58,55,96,155,119,145,111,105,105,150,133,115,144,124,Chittoor,Andhra Pradesh
+"Yerramukkapalli, Kadapa - APPCB",78,92,57,61,59,99,103,109,99,100,104,108,109,124,108,107,107,62,Kadapa,Andhra Pradesh
+"Anand Kala Kshetram, Rajamahendravaram - APPCB",95,73,59,77,89,181,155,138,126,109,127,156,144,105,135,169,125,117,Rajamahendravaram,Andhra Pradesh
+"Tirumala, Tirupati - APPCB",104,83,21,23,24,24,112,183,177,142,139,139,177,143,136,151,96,168,Tirupati,Andhra Pradesh
+"Vaikuntapuram, Tirupati - APPCB",85,72,55,61,57,51,103,118,102,102,156,105,108,169,109,115,104,102,Tirupati,Andhra Pradesh
+"HB Colony, Vijayawada - APPCB",68,69,62,56,59,60,84,75,70,67,74,64,57,50,55,56,59,79,Vijayawada,Andhra Pradesh
+"Kanuru, Vijayawada - APPCB",80,79,66,66,66,92,62,113,61,55,111,63,67,124,80,83,85,77,Vijayawada,Andhra Pradesh
+"Rajiv Gandhi Park, Vijayawada - APPCB",63,92,68,61,97,84,75,69,76,107,74,63,73,58,61,71,75,87,Vijayawada,Andhra Pradesh
+"Rajiv Nagar, Vijayawada - APPCB",76,70,66,59,87,67,65,67,66,64,58,55,54,124,109,55,58,52,Vijayawada,Andhra Pradesh
+"GVM Corporation, Visakhapatnam - APPCB",80,61,65,87,164,235,166,130,150,116,185,179,156,180,193,216,151,170,Visakhapatnam,Andhra Pradesh
+"Naharlagun, Naharlagun - APSPCB",43,43,49,52,51,56,52,52,47,54,56,61,56,52,52,55,54,52,Naharlagun,Arunachal Pradesh
+"Central Academy for SFS, Byrnihat - PCBA",65,226,298,73,268,70,275,234,60,162,180,282,253,249,73,157,255,292,Byrnihat,Assam
+"IITG, Guwahati - PCBA",94,85,97,138,88,70,92,85,60,69,73,106,90,121,73,89,125,72,Guwahati,Assam
+"LGBI Airport, Guwahati - PCBA",74,89,57,48,45,48,53,54,45,42,39,112,92,107,127,74,86,62,Guwahati,Assam
+"Pan Bazaar, Guwahati - PCBA",33,31,55,59,69,71,78,65,63,51,45,55,40,54,34,72,75,52,Guwahati,Assam
+"Railway Colony, Guwahati - PCBA",122,118,154,132,120,181,130,133,111,98,138,101,66,94,63,108,128,148,Guwahati,Assam
+"Christianpatty, Nagaon - PCBA",65,40,35,42,30,31,31,30,41,41,34,52,64,52,102,61,95,83,Nagaon,Assam
+"Bata Chowk, Nalbari - PCBA",28,58,70,62,67,51,61,58,51,48,30,133,108,302,84,120,142,86,Nalbari,Assam
+"Tarapur, Silchar - PCBA",46,46,44,48,48,50,53,54,57,57,56,56,56,57,61,63,78,67,Silchar,Assam
+"Girls College, Sivasagar - PCBA",60,61,57,56,60,62,60,57,58,58,68,64,47,56,42,61,48,59,Sivasagar,Assam
+"Kharahiya Basti, Araria - BSPCB",191,207,304,264,198,210,223,285,199,165,236,208,216,295,326,303,264,185,Araria,Bihar
+"New DM Office, Arrah - BSPCB",187,104,101,74,81,76,106,106,110,202,113,97,104,113,94,108,219,179,Arrah,Bihar
+"Gurdeo Nagar, Aurangabad - BSPCB",155,92,172,150,122,132,125,144,198,174,228,202,235,211,173,200,216,283,Aurangabad,Bihar
+"Lohiyanagar, Begusarai - BSPCB (Formerly known as DRCC Anandpur)",151,160,260,209,167,173,277,191,237,168,185,256,213,212,216,206,210,241,Begusarai,Bihar
+"Kamalnath Nagar, Bettiah - BSPCB",147,285,290,213,198,263,217,217,247,233,286,294,246,101,232,224,125,233,Bettiah,Bihar
+"DM Office_Kachari Chowk, Bhagalpur - BSPCB",96,100,241,255,137,208,271,209,139,217,199,290,276,278,290,286,219,297,Bhagalpur,Bihar
+"Mayaganj, Bhagalpur - BSPCB",142,123,313,212,182,219,290,254,179,247,228,297,287,291,295,300,322,319,Bhagalpur,Bihar
+"D M Colony, Bihar Sharif - BSPCB",164,189,205,161,137,146,228,247,251,170,277,218,284,256,248,263,249,344,Bihar Sharif,Bihar
+"Charitra Van, Buxar - BSPCB (Formerly known as Central Jail)",215,221,202,212,216,195,229,300,239,289,303,288,281,341,219,217,246,233,Buxar,Bihar
+"Darshan Nagar, Chhapra - BSPCB",264,178,157,114,198,202,225,239,182,174,187,202,188,231,185,217,219,249,Chhapra,Bihar
+"Town Hall - Lal Bagh, Darbhanga - BSPCB",187,222,248,212,198,202,223,217,223,202,242,238,246,238,232,224,219,233,Darbhanga,Bihar
+"Collectorate, Gaya - BSPCB",205,212,210,165,170,101,146,192,295,221,312,260,183,182,171,153,128,246,Gaya,Bihar
+"Kareemganj, Gaya - BSPCB",281,306,314,281,260,300,275,217,223,202,242,307,272,288,275,272,253,321,Gaya,Bihar
+"SFTI Kusdihra, Gaya - BSPCB",84,106,114,85,63,66,71,88,164,91,156,91,105,105,112,91,75,133,Gaya,Bihar
+"Industrial Area, Hajipur - BSPCB",216,401,424,292,304,321,379,217,403,412,415,389,357,349,328,316,327,309,Hajipur,Bihar
+"Mirchaibari, Katihar - BSPCB",145,126,254,279,310,202,223,217,140,132,128,285,334,238,254,161,144,117,Katihar,Bihar
+"SDM Office_Khagra, Kishanganj - BSPCB",153,135,191,219,211,201,267,217,173,159,242,179,205,308,279,219,192,66,Kishanganj,Bihar
+"Forest Rest House, Manguraha - BSPCB",111,130,126,220,142,202,120,113,86,90,103,136,138,121,123,188,202,156,Manguraha,Bihar
+"Gandak Colony, Motihari - BSPCB",147,189,161,212,168,135,123,164,232,157,242,227,198,214,250,266,245,225,Motihari,Bihar
+"Town Hall, Munger - BSPCB",130,140,291,308,202,272,241,157,106,169,190,249,220,212,214,202,224,281,Munger,Bihar
+"Buddha Colony, Muzaffarpur - BSPCB",254,337,296,229,221,298,329,323,353,346,460,420,368,350,331,337,219,316,Muzaffarpur,Bihar
+"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",187,222,118,212,164,165,130,217,223,202,266,244,246,112,215,224,186,246,Muzaffarpur,Bihar
+"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",139,245,204,207,190,162,185,160,241,212,278,246,208,256,261,293,300,214,Muzaffarpur,Bihar
+"DRM Office Danapur, Patna - BSPCB",187,324,311,157,193,233,318,335,315,272,332,274,315,326,309,169,163,186,Patna,Bihar
+"Govt. High School Shikarpur, Patna - BSPCB",239,344,326,150,170,128,206,192,269,206,200,178,169,203,170,172,234,218,Patna,Bihar
+"IGSC Planetarium Complex, Patna - BSPCB",265,317,312,240,241,263,333,349,276,225,265,264,299,228,249,192,333,440,Patna,Bihar
+"Muradpur, Patna - BSPCB",207,315,295,174,204,221,190,217,311,278,308,289,278,243,224,277,104,104,Patna,Bihar
+"Rajbansi Nagar, Patna - BSPCB",281,322,322,164,236,254,345,340,326,254,292,189,293,308,250,132,136,194,Patna,Bihar
+"Samanpura, Patna - BSPCB",357,386,381,312,344,354,403,361,347,239,242,238,426,432,331,320,294,345,Patna,Bihar
+"Mariam Nagar, Purnia - BSPCB",187,221,306,309,198,128,83,105,73,68,242,235,305,250,198,182,280,186,Purnia,Bihar
+"Dangi Tola, Rajgir - BSPCB",187,274,291,236,211,243,256,276,223,248,306,238,246,144,238,220,210,234,Rajgir,Bihar
+"Police Line, Saharsa - BSPCB",187,261,377,375,316,267,186,230,230,193,189,236,270,292,298,288,293,205,Saharsa,Bihar
+"DM Office_Kasipur, Samastipur - BSPCB",145,216,204,236,205,202,260,167,237,183,199,236,249,233,246,285,307,238,Samastipur,Bihar
+"Dada Peer, Sasaram - BSPCB",153,179,164,136,146,145,146,163,223,181,272,224,252,263,182,178,188,215,Sasaram,Bihar
+"Chitragupta Nagar, Siwan - BSPCB",207,193,204,170,235,202,189,181,135,115,105,121,109,112,112,160,137,166,Siwan,Bihar
+"Sector 22, Chandigarh - CPCC",335,345,387,460,301,271,250,290,196,216,212,186,188,242,251,244,114,185,Chandigarh,Chandigarh
+"Sector-25, Chandigarh - CPCC",317,325,318,365,358,321,285,287,214,146,179,152,152,230,229,197,140,159,Chandigarh,Chandigarh
+"Sector-53, Chandigarh - CPCC",340,352,380,455,293,284,271,278,241,231,264,234,170,265,278,279,198,221,Chandigarh,Chandigarh
+"32Bungalows, Bhilai - CECB",105,104,104,102,117,100,95,99,97,119,172,179,93,91,78,99,101,82,Bhilai,Chhattisgarh
+"Civic Center, Bhilai - Bhilai Steel Plant",122,97,136,105,95,99,89,86,82,96,105,125,117,118,88,103,103,144,Bhilai,Chhattisgarh
+"Hathkhoj, Bhilai - CECB",104,118,117,106,133,110,113,98,110,138,170,193,97,144,102,166,123,112,Bhilai,Chhattisgarh
+"Mangala, Bilaspur - NTPC",89,66,119,70,71,69,63,101,104,102,100,123,84,95,77,84,85,91,Bilaspur,Chhattisgarh
+"Nawapara SECL Colony, Chhal - CECB",78,52,52,61,53,64,69,73,61,74,77,96,152,158,73,72,72,154,Chhal,Chhattisgarh
+"Rampur, Korba - CECB",64,60,75,53,88,96,97,76,78,81,80,91,99,104,69,76,86,90,Korba,Chhattisgarh
+"Urja Nagar, Korba - CECB",35,65,68,52,51,59,62,60,127,206,58,56,54,57,56,61,58,55,Korba,Chhattisgarh
+"OP Jindal School, Kunjemura - CECB",99,101,153,82,97,133,162,134,121,124,134,108,120,177,89,146,125,162,Kunjemura,Chhattisgarh
+"Govt. Higher Secondary School, Milupara - CECB",89,88,60,75,64,106,97,101,86,120,119,93,115,126,98,103,99,103,Milupara,Chhattisgarh
+"AIIMS, Raipur - CECB",89,104,100,94,87,96,102,106,110,116,123,126,130,128,109,107,111,117,Raipur,Chhattisgarh
+"Bhatagaon New ISBT, Raipur - CECB",96,88,133,70,78,95,98,111,97,97,106,122,131,126,88,105,108,102,Raipur,Chhattisgarh
+"Krishak Nagar, Raipur - CECB",85,88,100,76,73,92,92,97,90,99,99,111,112,116,96,84,89,101,Raipur,Chhattisgarh
+"Siltara Phase-II, Raipur - CECB",103,120,100,128,139,129,123,180,125,199,206,164,164,188,126,138,134,128,Raipur,Chhattisgarh
+"OP Jindal Industrial Park, Tumidih - CECB",89,88,90,82,88,96,97,101,99,120,119,147,151,146,88,110,99,110,Tumidih,Chhattisgarh
+"Alipur, Delhi - DPCC",361,357,389,394,433,438,427,480,493,467,404,394,444,382,327,398,307,330,Delhi,Delhi
+"Anand Vihar, Delhi - DPCC",388,404,426,459,468,436,446,495,489,459,400,416,454,389,356,414,322,377,Delhi,Delhi
+"Ashok Vihar, Delhi - DPCC",391,380,397,461,451,439,463,497,483,466,414,400,448,366,336,397,312,340,Delhi,Delhi
+"Aya Nagar, Delhi - IMD",335,348,430,428,410,405,431,493,473,408,352,372,425,297,276,345,287,313,Delhi,Delhi
+"Bawana, Delhi - DPCC",404,387,400,449,470,438,471,496,483,468,412,414,453,383,339,406,343,374,Delhi,Delhi
+"Burari Crossing, Delhi - IMD",363,361,380,390,408,430,427,465,473,429,377,385,425,340,311,368,302,336,Delhi,Delhi
+"CRRI Mathura Road, Delhi - IMD",323,345,398,395,366,407,427,490,473,389,335,350,425,325,264,341,266,290,Delhi,Delhi
+"Chandni Chowk, Delhi - IITM",290,356,342,405,355,378,384,466,473,393,329,378,423,325,268,334,251,319,Delhi,Delhi
+"DTU, Delhi - CPCB",322,355,380,376,437,384,379,456,475,422,360,370,412,316,306,356,238,285,Delhi,Delhi
+"Dr. Karni Singh Shooting Range, Delhi - DPCC",345,349,363,413,417,381,411,496,471,432,365,387,406,321,287,383,296,314,Delhi,Delhi
+"Dwarka-Sector 8, Delhi - DPCC ",364,363,380,468,444,407,454,500,475,442,391,388,445,361,305,382,330,342,Delhi,Delhi
+"IGI Airport (T3), Delhi - IMD",341,341,388,443,444,373,427,489,473,417,362,366,425,305,286,349,296,314,Delhi,Delhi
+"IHBAS, Dilshad Garden, Delhi - CPCB",264,305,372,370,383,442,433,480,484,426,329,328,392,367,333,342,284,311,Delhi,Delhi
+"ITO, Delhi - CPCB",340,352,395,412,365,353,420,447,385,416,343,360,380,286,258,369,314,308,Delhi,Delhi
+"Jahangirpuri, Delhi - DPCC",419,410,408,458,473,445,460,492,485,464,436,430,452,380,347,399,330,377,Delhi,Delhi
+"Jawaharlal Nehru Stadium, Delhi - DPCC",315,321,351,392,382,375,390,488,465,429,351,354,388,314,256,364,266,282,Delhi,Delhi
+"Lodhi Road, Delhi - IITM",353,212,301,281,332,424,427,489,473,334,377,337,425,339,95,339,301,297,Delhi,Delhi
+"Lodhi Road, Delhi - IMD",311,311,332,379,364,354,372,487,457,386,377,285,425,280,240,340,257,262,Delhi,Delhi
+"Major Dhyan Chand National Stadium, Delhi - DPCC",362,350,339,451,412,417,419,499,480,375,369,381,416,344,294,393,305,313,Delhi,Delhi
+"Mandir Marg, Delhi - DPCC",346,331,383,432,402,412,432,497,472,435,353,367,412,303,286,392,286,308,Delhi,Delhi
+"Mundka, Delhi - DPCC",392,396,383,466,452,421,461,495,484,466,404,406,453,354,362,408,364,385,Delhi,Delhi
+"NSIT Dwarka, Delhi - CPCB",392,353,353,450,415,366,428,492,446,404,354,337,416,307,247,327,297,247,Delhi,Delhi
+"Najafgarh, Delhi - DPCC",365,350,372,456,403,349,416,500,468,428,353,358,414,299,300,364,300,304,Delhi,Delhi
+"Narela, Delhi - DPCC",358,354,388,430,448,449,441,485,490,457,390,390,434,383,330,397,266,331,Delhi,Delhi
+"Nehru Nagar, Delhi - DPCC",369,372,385,461,435,427,437,499,475,448,408,423,439,379,325,401,331,353,Delhi,Delhi
+"North Campus, DU, Delhi - IMD",369,367,412,409,392,443,412,496,473,421,340,362,425,334,303,360,276,292,Delhi,Delhi
+"Okhla Phase-2, Delhi - DPCC",342,358,366,439,424,380,405,493,463,417,378,386,410,338,285,372,287,320,Delhi,Delhi
+"Patparganj, Delhi - DPCC",368,370,386,469,442,427,431,495,484,439,375,388,423,360,304,389,311,350,Delhi,Delhi
+"Punjabi Bagh, Delhi - DPCC",396,374,401,459,446,421,448,497,474,450,405,399,447,347,335,392,326,339,Delhi,Delhi
+"Pusa, Delhi - DPCC",323,320,394,394,384,402,409,496,469,424,352,356,395,307,279,375,297,295,Delhi,Delhi
+"Pusa, Delhi - IMD",321,317,382,410,408,403,428,491,472,417,377,363,425,295,279,352,282,287,Delhi,Delhi
+"R K Puram, Delhi - DPCC",374,362,383,452,437,402,433,483,470,426,381,385,422,339,293,381,306,327,Delhi,Delhi
+"Rohini, Delhi - DPCC",398,402,390,450,464,426,446,494,484,463,406,402,445,357,337,409,321,345,Delhi,Delhi
+"Shadipur, Delhi - CPCB",390,354,393,424,436,462,456,483,479,429,411,405,435,370,363,400,379,367,Delhi,Delhi
+"Sirifort, Delhi - CPCB",336,343,392,438,416,395,402,497,467,424,368,370,401,327,285,370,295,314,Delhi,Delhi
+"Sonia Vihar, Delhi - DPCC",353,378,411,427,403,428,431,491,492,449,394,404,441,377,344,405,313,328,Delhi,Delhi
+"Sri Aurobindo Marg, Delhi - DPCC",199,213,319,323,297,265,390,494,451,416,355,353,380,303,261,362,274,275,Delhi,Delhi
+"Vivek Vihar, Delhi - DPCC",383,378,381,454,444,436,446,492,491,460,391,407,443,380,347,407,318,342,Delhi,Delhi
+"Wazirpur, Delhi - DPCC",403,411,399,460,465,441,458,496,484,468,437,417,462,379,351,400,329,359,Delhi,Delhi
+"Chandkheda, Ahmedabad - IITM",146,157,148,151,134,198,126,115,121,116,119,124,122,136,133,133,147,155,Ahmedabad,Gujarat
+"Gyaspur, Ahmedabad - IITM",120,145,221,251,213,227,141,203,160,151,157,205,265,279,297,261,281,287,Ahmedabad,Gujarat
+"Maninagar, Ahmedabad - GPCB",98,107,121,113,113,194,108,99,97,111,117,146,101,125,130,154,129,122,Ahmedabad,Gujarat
+"Raikhad, Ahmedabad - IITM",140,152,123,126,117,137,108,101,105,111,112,152,120,125,131,116,128,129,Ahmedabad,Gujarat
+"Rakhial, Ahmedabad - IITM",183,199,207,212,175,194,147,119,122,146,129,152,161,182,160,184,167,167,Ahmedabad,Gujarat
+"SAC ISRO Bopal, Ahmedabad - IITM",137,153,148,238,186,248,170,169,189,189,206,219,232,251,275,257,279,267,Ahmedabad,Gujarat
+"SAC ISRO Satellite, Ahmedabad - IITM",98,113,118,116,108,187,112,107,109,112,106,112,116,126,124,108,121,127,Ahmedabad,Gujarat
+"SVPI Airport Hansol, Ahmedabad - IITM",118,102,138,141,126,162,137,118,116,132,145,148,145,150,148,140,158,162,Ahmedabad,Gujarat
+"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",111,155,161,167,130,221,128,137,125,130,139,154,163,196,159,147,201,205,Ahmedabad,Gujarat
+"GIDC, Ankleshwar - GPCB",124,137,148,158,131,186,143,128,183,186,174,123,197,224,194,210,173,167,Ankleshwar,Gujarat
+"GIFT City, Gandhinagar - IITM",141,127,175,181,139,116,183,134,131,142,168,146,158,173,166,154,161,162,Gandhinagar,Gujarat
+"IIPHG Lekawada, Gandhinagar - IITM",124,150,181,208,187,123,114,113,117,126,124,153,158,148,168,118,158,151,Gandhinagar,Gujarat
+"Sector-10, Gandhinagar - GPCB",87,86,98,104,106,139,104,78,92,99,104,116,115,128,120,94,99,105,Gandhinagar,Gujarat
+"GIDC, Nandesari - Nandesari Ind. Association",124,137,148,158,91,111,89,133,137,146,137,115,150,175,172,119,96,95,Nandesari,Gujarat
+"Science Center, Surat - SMC",124,137,130,109,232,168,153,269,265,299,137,146,158,173,166,165,161,162,Surat,Gujarat
+"Phase-1 GIDC, Vapi - GPCB",136,125,118,125,119,157,174,137,150,177,140,149,201,221,166,149,135,134,Vapi,Gujarat
+"Phase-4 GIDC, Vatva - GPCB",110,155,145,132,122,164,139,103,118,118,119,134,126,131,115,121,157,158,Vatva,Gujarat
+"Patti Mehar, Ambala - HSPCB",177,170,255,172,201,217,214,182,197,279,211,217,97,116,211,129,93,120,Ambala,Haryana
+"Arya Nagar, Bahadurgarh - HSPCB",310,230,254,293,324,382,434,448,368,414,374,330,318,257,262,344,188,274,Bahadurgarh,Haryana
+"Nathu Colony, Ballabgarh - HSPCB",131,162,278,295,320,274,299,331,416,291,278,247,358,233,159,321,226,219,Ballabgarh,Haryana
+"H.B. Colony, Bhiwani - HSPCB",264,176,381,218,362,344,385,458,232,243,292,281,319,202,228,237,188,248,Bhiwani,Haryana
+"Mini Secretariat, Charkhi Dadri - HSPCB",301,214,313,188,295,268,200,246,334,369,333,360,321,237,259,206,191,224,Charkhi Dadri,Haryana
+"Municipal Corporation Office, Dharuhera -  HSPCB",288,232,277,308,290,262,278,442,432,262,338,204,241,182,219,198,206,200,Dharuhera,Haryana
+"New Industrial Town, Faridabad - HSPCB",219,260,261,335,354,244,281,390,338,204,222,276,281,286,216,190,185,144,Faridabad,Haryana
+"Sector 11, Faridabad - HSPCB",148,157,258,269,304,214,226,348,331,286,248,259,277,282,234,247,188,167,Faridabad,Haryana
+"Sector 30, Faridabad - HSPCB",186,120,192,114,181,299,265,259,349,308,254,294,312,309,202,275,188,101,Faridabad,Haryana
+"Sector- 16A, Faridabad - HSPCB",215,259,276,333,347,247,264,371,348,267,252,254,258,212,219,224,188,200,Faridabad,Haryana
+"Huda Sector, Fatehabad - HSPCB",215,202,85,252,281,129,265,338,318,85,234,277,86,212,219,190,194,233,Fatehabad,Haryana
+"NISE Gwal Pahari, Gurugram - IMD",318,239,283,351,387,336,272,490,462,428,344,313,258,294,275,369,294,286,Gurugram,Haryana
+"Sector-51, Gurugram - HSPCB",352,208,299,239,282,247,275,331,395,432,316,296,223,212,219,304,157,191,Gurugram,Haryana
+"Teri Gram, Gurugram - HSPCB",277,184,285,252,316,294,307,445,408,364,321,280,296,199,232,323,176,200,Gurugram,Haryana
+"Vikas Sadan, Gurugram - HSPCB",306,264,266,380,305,328,309,447,397,324,304,270,333,180,212,301,238,263,Gurugram,Haryana
+"Urban Estate-II, Hisar - HSPCB",81,202,282,289,280,279,394,307,301,327,222,296,280,155,261,224,237,211,Hisar,Haryana
+"Police Lines, Jind - HSPCB",264,250,320,220,324,406,303,373,370,335,276,294,297,229,217,224,223,243,Jind,Haryana
+"Rishi Nagar, Kaithal - HSPCB",178,299,211,246,335,318,301,323,246,253,246,271,325,242,256,183,153,224,Kaithal,Haryana
+"Sector-12, Karnal - HSPCB",121,134,229,186,314,284,182,168,281,125,174,209,256,263,221,180,120,129,Karnal,Haryana
+"Sector-7, Kurukshetra - HSPCB",160,227,257,223,287,283,241,277,287,221,209,231,230,254,209,168,141,164,Kurukshetra ,Haryana
+"General Hospital, Mandikhera - HSPCB",113,129,169,232,163,216,106,235,259,124,118,123,126,116,110,110,119,121,Mandikhera,Haryana
+"Sector-2 IMT, Manesar - HSPCB",212,193,243,262,203,282,254,331,373,307,313,249,243,152,169,134,149,207,Manesar,Haryana
+"Shastri Nagar, Narnaul - HSPCB",233,126,115,248,178,153,131,372,286,332,176,210,258,155,172,180,197,200,Narnaul,Haryana
+"Shyam Nagar, Palwal - HSPCB",104,122,102,186,179,247,187,310,272,117,87,91,111,83,64,83,66,200,Palwal ,Haryana
+"Sector-6, Panchkula - HSPCB ",220,255,286,299,273,215,178,206,183,165,155,149,153,189,159,192,150,149,Panchkula,Haryana
+"Sector-18, Panipat - HSPCB",184,185,365,213,213,357,319,294,296,262,252,251,375,256,307,252,223,162,Panipat,Haryana
+"MD University, Rohtak - HSPCB",227,225,280,210,320,315,303,302,326,288,315,256,316,151,220,173,224,223,Rohtak,Haryana
+"F-Block, Sirsa - HSPCB",187,181,250,252,281,279,265,331,312,317,286,332,214,277,327,270,344,315,Sirsa,Haryana
+"Murthal, Sonipat - HSPCB",273,255,324,269,304,372,344,402,410,370,245,283,338,212,283,315,236,200,Sonipat,Haryana
+"Gobind Pura, Yamuna Nagar - HSPCB",198,211,262,228,236,287,185,190,268,283,188,227,258,238,243,189,176,202,Yamuna Nagar,Haryana
+"HIMUDA Complex Phase-1, Baddi - HPPCB",283,285,346,303,325,255,231,276,210,106,115,97,87,114,109,133,113,85,Baddi,Himachal Pradesh
+"Rajbagh, Srinagar - JKSPCB",38,94,94,94,94,94,94,75,100,64,33,113,187,64,83,109,123,142,Srinagar,Jammu and Kashmir
+"Kalakusuma, Dhanbad - DMC",194,194,194,194,194,194,194,194,194,194,194,194,111,230,233,164,147,278,Dhanbad,Jharkhand
+"Sardar Patel Nagar, Dhanbad - JSPCB",244,244,244,244,244,244,244,244,244,244,244,244,111,339,339,213,187,278,Dhanbad,Jharkhand
+"Tata Stadium, Jorapokhar - JSPCB",143,143,143,143,143,143,143,143,143,143,143,143,111,122,128,116,107,278,Jorapokhar,Jharkhand
+"Mohalbani Ghat, Pathardih - DMC",194,194,194,194,194,194,194,194,194,194,194,194,111,230,233,164,147,278,Pathardih,Jharkhand
+"Vidayagiri, Bagalkot - KSPCB",39,45,39,42,42,42,42,52,42,42,46,42,46,46,46,66,42,42,Bagalkot,Karnataka
+"Ramteerth Nagar, Belgaum - KSPCB",75,119,101,54,54,66,60,96,109,95,88,103,119,91,85,87,92,100,Belgaum,Karnataka
+"BTM Layout, Bengaluru - CPCB",78,88,66,51,49,54,68,108,114,98,96,105,94,99,88,88,115,97,Bengaluru,Karnataka
+"BWSSB Kadabesanahalli, Bengaluru - CPCB",75,93,72,51,48,54,60,91,91,85,88,83,85,91,85,87,88,90,Bengaluru,Karnataka
+"Bapuji Nagar, Bengaluru - KSPCB",102,122,84,64,68,65,85,132,122,85,105,121,115,109,104,107,114,132,Bengaluru,Karnataka
+"City Railway Station, Bengaluru - KSPCB",75,86,77,84,65,75,80,91,70,76,76,82,81,89,85,90,87,63,Bengaluru,Karnataka
+"Hebbal, Bengaluru - KSPCB",75,103,46,32,27,36,55,124,91,85,88,83,85,136,88,103,136,136,Bengaluru,Karnataka
+"Hombegowda Nagar, Bengaluru - KSPCB",62,69,37,25,23,25,40,77,81,78,77,83,84,78,67,69,71,81,Bengaluru,Karnataka
+"Jayanagar 5th Block, Bengaluru - KSPCB",88,111,83,53,41,50,56,137,123,126,103,120,118,103,89,99,116,151,Bengaluru,Karnataka
+"Jigani, Bengaluru - KSPCB",120,115,105,58,58,59,70,152,151,117,104,111,105,108,81,85,90,95,Bengaluru,Karnataka
+"Kasturi Nagar, Bengaluru - KSPCB",75,93,44,44,45,49,52,53,56,60,56,52,61,60,61,57,60,64,Bengaluru,Karnataka
+"Peenya, Bengaluru - CPCB",74,92,68,56,51,52,61,91,95,92,91,78,85,91,73,87,82,89,Bengaluru,Karnataka
+"RVCE-Mailasandra, Bengaluru - KSPCB",85,103,74,69,74,76,78,79,74,85,192,109,109,116,104,108,123,86,Bengaluru,Karnataka
+"Sanegurava Halli, Bengaluru - KSPCB",36,38,39,41,35,36,35,37,38,38,39,40,42,91,85,38,39,39,Bengaluru,Karnataka
+"Shivapura_Peenya, Bengaluru - KSPCB",90,104,80,63,54,60,73,103,112,112,110,108,109,118,94,103,117,115,Bengaluru,Karnataka
+"Silk Board, Bengaluru - KSPCB",98,136,61,42,42,46,63,110,108,112,100,136,118,109,90,107,106,132,Bengaluru,Karnataka
+"Naubad, Bidar - KSPCB",185,122,83,51,108,112,60,91,121,116,120,155,140,134,130,87,88,90,Bidar,Karnataka
+"Urban, Chamarajanagar - KSPCB",42,41,44,41,43,44,49,49,45,46,47,44,49,45,40,42,43,48,Chamarajanagar,Karnataka
+"Chikkaballapur Rural, Chikkaballapur - KSPCB",105,126,42,24,27,30,62,125,134,123,123,83,132,114,99,139,158,153,Chikkaballapur,Karnataka
+"Kalyana Nagara, Chikkamagaluru - KSPCB",52,68,49,35,48,31,41,91,91,73,55,48,60,57,56,63,64,58,Chikkamagaluru,Karnataka
+"Devaraj Urs Badavane, Davanagere - KSPCB",91,131,82,32,41,40,60,100,125,85,108,92,97,137,115,134,114,128,Davanagere,Karnataka
+"Kalabhavan, Dharwad - KSPCB",75,81,79,72,72,69,79,81,91,80,86,82,88,87,78,86,81,82,Dharwad,Karnataka
+"Panchal Nagar, Gadag - KSPCB",57,74,53,32,33,33,55,92,88,76,78,74,75,77,80,83,69,69,Gadag,Karnataka
+"B.Katihalli, Hassan - KSPCB",62,126,71,51,30,39,37,91,91,85,87,81,78,91,85,87,88,90,Hassan,Karnataka
+"Ashwini Nagar, Haveri - KSPCB",62,174,233,51,57,67,96,103,118,110,88,83,48,47,53,58,51,90,Haveri,Karnataka
+"Deshpande Nagar, Hubballi - KSPCB",103,118,103,51,48,73,95,215,225,143,183,140,170,197,217,255,151,199,Hubballi,Karnataka
+"Lingaraj Nagar, Hubballi - KSPCB",49,46,47,46,45,47,51,56,48,52,53,56,53,54,50,63,64,62,Hubballi,Karnataka
+"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",89,152,88,76,64,103,60,120,91,145,163,84,90,105,118,87,88,90,Kalaburagi,Karnataka
+"Mahatma Basaveswar Colony, Kalaburgi - KSPCB",41,42,41,38,40,44,42,58,43,42,48,47,51,49,49,48,44,49,Kalaburagi,Karnataka
+"KHB Colony, Karwar - KSPCB",54,82,90,51,22,54,60,82,88,85,88,77,74,85,83,87,89,91,Karwar,Karnataka
+"Tamaka Ind. Area, Kolar - KSPCB",63,63,63,53,52,47,47,91,91,46,48,63,54,45,44,49,88,47,Kolar,Karnataka
+"Diwator Nagar, Koppal - KSPCB",48,64,46,48,95,31,34,57,59,67,95,62,72,69,72,87,88,90,Koppal,Karnataka
+"Stuart Hill, Madikeri - KSPCB",40,60,43,10,10,11,19,63,53,58,35,35,37,43,22,30,30,39,Madikeri,Karnataka
+"Kadri, Mangalore - KSPCB",60,60,56,66,54,54,54,53,54,51,50,45,44,44,85,87,88,90,Mangalore,Karnataka
+"Hebbal 1st Stage, Mysuru - KSPCB",61,68,57,31,32,38,36,65,66,75,71,63,60,65,63,63,63,65,Mysuru,Karnataka
+"Haji Colony, Raichur - KSPCB",75,132,112,112,48,113,158,123,91,85,88,127,85,180,136,126,129,124,Raichur,Karnataka
+"Vijay Nagar, Ramanagara - KSPCB",71,99,61,32,29,30,41,93,96,103,87,80,103,90,77,94,118,126,Ramanagara,Karnataka
+"Vinoba Nagara, Shivamogga - KSPCB",52,93,72,40,37,46,53,47,60,55,54,54,50,49,56,52,53,55,Shivamogga,Karnataka
+"Thimmalapura, Tumakuru - KSPCB",114,106,108,106,106,118,60,106,106,106,118,106,106,91,85,87,88,90,Tumakuru,Karnataka
+"Brahmagiri, Udupi - KSPCB",69,88,106,81,41,54,46,46,98,87,94,82,78,86,93,87,87,97,Udupi,Karnataka
+"Ibrahimpur, Vijayapura - KSPCB",37,37,37,37,37,37,37,37,37,37,37,37,37,37,37,37,37,37,Vijayapura,Karnataka
+"Collector Office, Yadgir - KSPCB",166,160,105,80,55,90,130,158,156,153,146,164,190,235,235,157,166,135,Yadgir,Karnataka
+"Udyogamandal, Eloor - Kerala PCB",63,76,79,76,62,58,63,50,82,60,55,80,78,78,74,81,80,73,Eloor,Kerala
+"Kacheripady, Ernakulam - Kerala PCB",56,81,65,59,54,53,53,48,64,60,55,58,59,61,59,60,58,56,Ernakulam,Kerala
+"Thavakkara, Kannur - Kerala PCB",56,81,65,59,54,53,53,48,64,60,55,36,36,31,31,36,56,52,Kannur,Kerala
+"Vyttila, Kochi - Kerala PCB",56,81,65,59,54,53,53,48,64,60,55,58,59,61,59,60,58,56,Kochi,Kerala
+"Polayathode, Kollam - Kerala PCB",76,160,70,59,62,60,61,48,60,60,60,60,60,61,59,60,60,60,Kollam,Kerala
+"Palayam, Kozhikode - Kerala PCB",56,81,65,59,54,53,53,48,64,60,55,58,59,61,59,60,58,56,Kozhikode,Kerala
+"Kariavattom, Thiruvananthapuram - Kerala PCB",51,66,69,66,63,60,65,65,66,64,55,58,61,65,65,67,60,51,Thiruvananthapuram,Kerala
+"Plammoodu, Thiruvananthapuram - Kerala PCB",48,60,60,47,41,46,33,36,70,73,56,65,61,86,78,70,47,55,Thiruvananthapuram,Kerala
+"Corporation Ground, Thrissur - Kerala PCB",42,47,47,47,44,44,43,43,43,43,49,51,59,49,48,50,50,45,Thrissur,Kerala
+"Idgah Hills, Bhopal - MPPCB",213,192,283,171,175,225,175,190,232,219,241,228,260,221,177,109,165,149,Bhopal,Madhya Pradesh
+"Paryavaran Parisar, Bhopal - MPPCB",247,222,337,235,222,241,202,210,244,209,246,249,289,226,193,177,241,199,Bhopal,Madhya Pradesh
+"T T Nagar, Bhopal - MPPCB",201,241,263,185,211,299,266,275,237,207,245,287,301,302,198,197,199,187,Bhopal,Madhya Pradesh
+"Shrivastav Colony, Damoh - MPPCB",65,109,110,115,193,94,103,77,96,180,254,245,199,201,192,231,124,152,Damoh,Madhya Pradesh
+"Bhopal Chauraha, Dewas - MPPCB",126,147,155,114,118,111,107,124,204,203,181,242,198,261,120,106,84,104,Dewas,Madhya Pradesh
+"City Center, Gwalior - MPPCB",100,197,231,164,186,165,145,303,355,332,249,224,282,243,150,209,190,230,Gwalior,Madhya Pradesh
+"Deen Dayal Nagar, Gwalior - MPPCB",167,273,229,197,196,210,185,324,295,217,224,236,254,265,181,248,223,262,Gwalior,Madhya Pradesh
+"Maharaj Bada, Gwalior - MPPCB",143,216,246,218,210,171,154,165,324,283,246,201,258,270,170,200,229,147,Gwalior,Madhya Pradesh
+"Phool Bagh, Gwalior - Mondelez Ind. Food",135,171,217,156,151,155,151,165,181,180,198,198,180,165,134,139,141,135,Gwalior,Madhya Pradesh
+"Airport Area, Indore - IMC",153,206,302,163,166,191,141,203,233,180,198,198,79,86,134,139,141,135,Indore,Madhya Pradesh
+"Chhoti Gwaltoli, Indore - MPPCB",141,232,224,118,169,195,145,210,196,192,211,253,258,167,161,97,170,156,Indore,Madhya Pradesh
+"Maguda Nagar, Indore - IMC",77,114,229,88,151,124,151,175,70,61,59,64,77,83,70,139,57,68,Indore,Madhya Pradesh
+"Regional Park, Indore - IMC",111,126,243,118,107,119,114,78,100,97,111,120,135,103,74,139,141,135,Indore,Madhya Pradesh
+"Residency Area, Indore - IMC",82,121,211,156,110,109,151,165,100,93,88,92,99,118,103,72,141,135,Indore,Madhya Pradesh
+"Vijay Nagar Scheme-78, Indore - Glenmark",135,171,217,156,52,52,52,52,52,51,52,52,52,52,52,52,52,52,Indore,Madhya Pradesh
+"Govindh Bhavan Colony, Jabalpur - JMC",71,91,108,156,68,91,108,165,83,170,178,154,100,101,77,73,70,57,Jabalpur,Madhya Pradesh
+"Gupteshwar, Jabalpur - JMC",79,127,179,83,79,135,146,126,140,204,198,276,166,143,110,131,150,144,Jabalpur,Madhya Pradesh
+"Marhatal, Jabalpur - MPPCB",124,182,228,156,118,187,213,185,187,264,188,175,136,146,130,141,163,131,Jabalpur,Madhya Pradesh
+"Suhagi, Jabalpur - JMC",115,153,187,102,122,148,171,142,141,238,260,198,180,140,101,98,219,106,Jabalpur,Madhya Pradesh
+"Gole Bazar, Katni - MPPCB",165,162,240,206,214,184,194,190,186,164,198,251,181,177,206,172,153,174,Katni,Madhya Pradesh
+"Sahilara, Maihar - KJS Cements",49,171,50,43,43,44,39,44,94,88,198,62,74,73,64,51,60,55,Maihar,Madhya Pradesh
+"Sector-D Industrial Area, Mandideep - MPPCB",335,171,292,241,220,223,248,199,282,181,290,253,233,188,222,203,147,181,Mandideep,Madhya Pradesh
+"Sector-2 Industrial Area, Pithampur - MPPCB",87,126,160,91,94,133,104,94,248,181,242,228,222,197,185,105,106,137,Pithampur,Madhya Pradesh
+"Shasthri Nagar, Ratlam - IPCA Lab",153,186,214,179,198,167,160,148,164,159,167,176,174,184,168,173,155,151,Ratlam,Madhya Pradesh
+"Civil Lines, Sagar - MPPCB",155,190,165,156,165,170,126,165,293,252,302,272,222,183,134,109,126,116,Sagar,Madhya Pradesh
+"Deen Dayal Nagar, Sagar - MPPCB",66,134,302,209,73,60,161,171,88,79,100,97,84,76,67,60,95,104,Sagar,Madhya Pradesh
+"Bandhavgar Colony, Satna - Birla Cement",75,75,78,77,151,68,68,68,68,73,74,198,76,76,76,76,76,74,Satna,Madhya Pradesh
+"Suryakiran Bhawan NCL, Singrauli - MPPCB",237,243,293,293,226,229,226,198,181,293,327,280,272,219,134,295,162,135,Singrauli,Madhya Pradesh
+"Mahakaleshwar Temple, Ujjain - MPPCB",121,233,320,196,197,218,193,175,193,186,220,253,180,135,104,100,109,127,Ujjain,Madhya Pradesh
+"Tarakpur, Ahmednagar - MPCB",196,161,138,134,171,144,180,175,199,182,151,162,180,181,123,141,158,135,Ahmednagar,Maharashtra
+"Ramdaspeth, Akola - MPCB",109,115,119,110,127,115,132,123,127,135,121,146,146,153,160,129,145,88,Akola,Maharashtra
+"Shivneri Colony, Amravati - MPCB",114,99,88,77,88,93,91,96,91,85,109,137,153,194,113,82,89,77,Amravati,Maharashtra
+"Shri Shivaji Science College, Amaravati - MPCB",111,91,105,102,97,118,107,111,103,115,126,142,152,165,118,90,99,91,Amravati,Maharashtra
+"MIDC Chilkalthana, Aurangabad - MPCB",160,97,74,72,70,82,74,77,84,86,103,116,138,148,143,102,83,93,Aurangabad,Maharashtra
+"More Chowk Waluj, Aurangabad - MPCB",89,84,61,85,79,95,80,69,81,86,65,57,66,62,42,38,52,92,Aurangabad,Maharashtra
+"Rachnakar Colony, Aurangabad - MPCB",141,141,134,142,126,138,122,118,146,137,148,175,167,170,162,181,142,135,Aurangabad,Maharashtra
+"Katrap, Badlapur - MPCB",206,217,211,155,181,193,214,163,128,168,177,198,178,229,174,160,153,178,Badlapur,Maharashtra
+"CBD Belapur, Belapur - MPCB",152,144,121,117,122,129,154,118,113,128,124,139,162,200,195,145,141,138,Belapur,Maharashtra
+"Gokul Nagar, Bhiwandi - MPCB",177,222,200,203,176,243,227,182,164,199,206,207,224,243,209,175,196,213,Bhiwandi,Maharashtra
+"Khaira, Boisar - MPCB",127,144,128,127,123,211,238,165,120,154,166,204,220,270,272,188,121,153,Boisar,Maharashtra
+"Chauhan Colony, Chandrapur - MPCB",161,169,126,125,134,142,101,139,333,179,170,182,179,196,189,165,151,115,Chandrapur,Maharashtra
+"MIDC Khutala, Chandrapur - MPCB",160,161,147,139,134,149,166,139,132,149,153,175,183,196,189,153,132,135,Chandrapur,Maharashtra
+"Deopur, Dhule - MPCB",207,211,174,188,156,144,161,140,141,212,188,243,248,235,249,219,106,128,Dhule,Maharashtra
+"Prabhat Colony, Jalgaon - MPCB",183,201,239,179,162,219,184,176,231,254,257,239,212,225,250,154,108,144,Jalgaon,Maharashtra
+"Old MIDC, Jalna - MPCB",260,188,127,155,172,140,160,139,306,193,225,308,183,152,106,153,132,135,Jalna,Maharashtra
+"Khadakpada, Kalyan - MPCB",130,131,147,139,139,132,126,123,108,121,125,135,130,135,124,129,128,137,Kalyan,Maharashtra
+"Pimpleshwar Mandir, Kalyan - MPCB",131,121,132,124,144,82,64,68,57,106,111,132,127,176,178,130,120,134,Kalyan,Maharashtra
+"Shivaji University, Kolhapur - MPCB",260,316,316,145,90,81,170,139,176,166,153,174,178,169,194,157,95,111,Kolhapur,Maharashtra
+"Sinchan Bhavan, Kolhapur - MPCB",160,161,163,129,90,108,140,149,274,179,127,92,118,98,189,110,102,98,Kolhapur,Maharashtra
+"Sawe Wadi, Latur - MPCB",199,192,145,124,111,136,120,116,164,126,174,196,218,242,193,184,114,113,Latur,Maharashtra
+"Kamble Tarf Birwadi, Mahad - MPCB",180,161,220,184,154,108,210,139,155,193,203,212,207,207,189,153,177,128,Mahad,Maharashtra
+"Mahesh Nagar, Malegaon - MPCB",227,229,195,238,166,138,176,118,135,164,147,175,191,191,232,283,147,173,Malegaon,Maharashtra
+"Bhayandar West, Mira-Bhayandar - MPCB",155,214,147,161,180,240,208,133,124,134,145,159,170,226,215,152,132,194,Mira-Bhayandar,Maharashtra
+"Bandra Kurla Complex, Mumbai - IITM",160,161,147,139,134,149,166,139,132,149,153,175,183,196,189,153,132,135,Mumbai,Maharashtra
+"Bandra Kurla Complex, Mumbai - MPCB",155,179,156,143,168,127,181,135,88,89,81,194,225,242,239,154,156,156,Mumbai,Maharashtra
+"Bandra, Mumbai - MPCB",160,161,147,139,134,149,166,139,132,149,153,175,183,196,189,153,132,135,Mumbai,Maharashtra
+"Borivali East, Mumbai - IITM",145,197,160,155,141,160,236,165,117,162,179,214,237,277,269,200,140,192,Mumbai,Maharashtra
+"Borivali East, Mumbai - MPCB",91,96,87,80,80,149,166,90,75,92,92,99,101,112,112,96,86,92,Mumbai,Maharashtra
+"Byculla, Mumbai - BMC",199,150,120,148,119,135,149,117,91,107,105,132,150,193,202,131,110,111,Mumbai,Maharashtra
+"Chakala-Andheri East, Mumbai - IITM",160,161,147,139,134,149,166,139,132,149,153,175,183,196,189,153,132,135,Mumbai,Maharashtra
+"Chembur, Mumbai - MPCB",151,170,159,138,118,145,208,146,109,152,118,197,211,257,258,191,142,168,Mumbai,Maharashtra
+"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",124,125,125,124,126,124,135,120,112,121,118,137,146,151,140,131,120,119,Mumbai,Maharashtra
+"Colaba, Mumbai - MPCB",113,113,101,101,118,127,154,131,125,138,129,140,137,152,140,112,93,97,Mumbai,Maharashtra
+"Deonar, Mumbai - IITM",235,245,200,139,156,143,181,156,122,154,161,175,220,245,189,153,132,135,Mumbai,Maharashtra
+"Ghatkopar, Mumbai - BMC",187,206,183,168,184,164,252,152,131,179,205,244,252,288,285,214,148,153,Mumbai,Maharashtra
+"Kandivali East, Mumbai - MPCB",115,142,130,116,121,121,125,114,106,111,117,119,121,126,123,132,122,116,Mumbai,Maharashtra
+"Kandivali West, Mumbai - BMC",237,245,193,169,172,192,166,139,132,149,153,175,183,196,189,177,157,179,Mumbai,Maharashtra
+"Kherwadi_Bandra East, Mumbai - MPCB",123,126,120,129,158,116,163,160,114,122,114,132,143,196,185,159,147,143,Mumbai,Maharashtra
+"Khindipada-Bhandup West, Mumbai - IITM",94,102,85,84,83,149,116,92,75,104,103,118,118,130,124,107,90,91,Mumbai,Maharashtra
+"Kurla, Mumbai - MPCB",113,112,112,103,114,112,125,116,98,113,111,122,127,140,135,117,102,102,Mumbai,Maharashtra
+"Malad West, Mumbai - IITM",180,189,193,139,171,239,271,216,114,149,153,214,229,265,260,166,142,150,Mumbai,Maharashtra
+"Mazgaon, Mumbai - IITM",134,144,137,145,146,139,169,139,122,142,132,156,182,234,222,175,148,135,Mumbai,Maharashtra
+"Mindspace-Malad West, Mumbai - MPCB",44,50,50,143,188,184,239,150,109,104,123,152,148,175,160,128,116,114,Mumbai,Maharashtra
+"Mulund West, Mumbai - MPCB",120,124,116,105,112,124,136,115,95,116,119,129,130,147,141,120,110,111,Mumbai,Maharashtra
+"Navy Nagar-Colaba, Mumbai - IITM",233,226,175,152,133,136,204,146,136,146,147,182,203,256,280,153,138,135,Mumbai,Maharashtra
+"Powai, Mumbai - MPCB",107,184,102,79,107,123,139,139,105,120,124,134,139,150,150,131,118,115,Mumbai,Maharashtra
+"Sewri, Mumbai - BMC",139,92,147,156,195,200,260,182,113,127,153,175,213,260,233,219,129,102,Mumbai,Maharashtra
+"Shivaji Nagar, Mumbai - BMC",160,161,147,139,134,149,166,139,132,149,153,175,183,196,189,310,275,218,Mumbai,Maharashtra
+"Siddharth Nagar-Worli, Mumbai - IITM",172,161,176,187,150,206,252,214,91,150,119,161,207,240,246,156,107,108,Mumbai,Maharashtra
+"Sion, Mumbai - MPCB",113,113,117,122,121,113,124,121,111,116,113,126,142,144,144,131,127,117,Mumbai,Maharashtra
+"Vasai West, Mumbai - MPCB",144,151,139,102,145,152,166,144,126,136,151,159,168,179,180,173,151,149,Mumbai,Maharashtra
+"Vile Parle West, Mumbai - MPCB",160,120,116,139,130,127,140,126,109,122,123,134,143,152,146,131,123,125,Mumbai,Maharashtra
+"Worli, Mumbai - MPCB",130,125,118,127,126,118,136,117,102,65,110,175,183,196,189,153,132,135,Mumbai,Maharashtra
+"Ambazari, Nagpur - MPCB",159,131,132,129,131,163,157,160,125,142,204,166,197,205,158,97,126,119,Nagpur,Maharashtra
+"Mahal, Nagpur - MPCB",129,96,158,154,159,196,187,205,176,206,225,235,245,224,165,142,130,109,Nagpur,Maharashtra
+"Opp GPO Civil Lines, Nagpur - MPCB",137,95,152,149,145,162,166,176,142,155,218,231,258,229,136,127,101,114,Nagpur,Maharashtra
+"Ram Nagar, Nagpur - MPCB",107,109,156,167,199,213,203,211,178,181,262,259,211,208,139,122,109,115,Nagpur,Maharashtra
+"Sneh Nagar, Nanded - MPCB",279,197,136,129,165,155,109,93,85,62,185,156,162,159,157,111,141,135,Nanded,Maharashtra
+"Gangapur Road, Nashik - MPCB",222,198,191,184,128,217,225,178,157,266,265,297,316,318,324,284,165,152,Nashik,Maharashtra
+"Hirawadi, Nashik - MPCB",139,143,125,132,137,171,163,131,126,155,167,195,213,197,229,165,116,109,Nashik,Maharashtra
+"MIDC Ambad, Nashik - MPCB",185,161,147,141,134,183,172,142,144,149,163,207,183,196,250,157,132,119,Nashik,Maharashtra
+"Pandav Nagari, Nashik - MPCB",163,158,131,134,139,182,186,118,128,163,183,227,266,263,271,205,112,103,Nashik,Maharashtra
+"Airoli, Navi Mumbai - MPCB",160,161,147,139,134,149,166,139,132,149,153,175,183,196,189,153,132,135,Navi Mumbai,Maharashtra
+"Kopripada-Vashi, Navi Mumbai - MPCB",167,146,176,162,132,186,201,145,139,139,152,186,151,175,188,151,133,150,Navi Mumbai,Maharashtra
+"Mahape, Navi Mumbai - MPCB",130,138,123,114,109,122,138,110,105,128,117,138,142,159,139,138,124,145,Navi Mumbai,Maharashtra
+"Nerul, Navi Mumbai - MPCB",150,150,131,117,105,126,175,120,103,129,127,150,173,210,143,141,126,124,Navi Mumbai,Maharashtra
+"Sanpada, Navi Mumbai - MPCB",144,150,146,215,138,129,131,114,133,149,153,175,134,167,152,134,106,108,Navi Mumbai,Maharashtra
+"Sector-19A Nerul, Navi Mumbai - IITM",160,161,147,139,134,149,166,139,132,149,153,175,183,196,189,153,132,135,Navi Mumbai,Maharashtra
+"Sector-2E Kalamboli, Navi Mumbai - MPCB",148,174,192,143,124,94,119,100,106,149,108,135,92,97,189,98,96,105,Navi Mumbai,Maharashtra
+"Tondare-Taloja, Navi Mumbai - MPCB",96,98,102,185,148,127,133,108,119,124,128,120,101,116,113,114,107,105,Navi Mumbai,Maharashtra
+"Masoom Colony, Parbhani - MPCB",293,161,234,186,172,197,166,139,132,229,247,273,294,308,288,228,111,124,Parbhani,Maharashtra
+"Gavalinagar, Pimpri Chinchwad - MPCB",265,278,260,204,152,178,251,200,187,241,244,276,306,286,303,216,220,190,Pimpri-Chinchwad,Maharashtra
+"Park Street Wakad, Pimpri Chinchwad - MPCB",246,255,164,148,130,133,147,140,140,150,155,153,172,161,178,260,236,209,Pimpri-Chinchwad,Maharashtra
+"Savta Mali Nagar, Pimpri-Chinchwad - IITM",235,242,198,158,143,211,196,150,140,177,203,243,267,273,277,153,181,172,Pimpri-Chinchwad,Maharashtra
+"Thergaon, Pimpri Chinchwad - MPCB",311,313,248,235,181,230,262,206,192,253,153,303,338,332,315,198,217,285,Pimpri-Chinchwad,Maharashtra
+"Alandi, Pune - IITM",165,217,147,131,143,144,152,153,116,198,193,207,256,254,263,229,229,231,Pune,Maharashtra
+"Bhosari, Pune - IITM",160,161,147,139,134,149,166,139,132,149,153,175,183,196,189,153,132,135,Pune,Maharashtra
+"Bhumkar Nagar, Pune - IITM",205,198,184,163,121,149,184,149,144,184,189,231,233,234,250,194,181,203,Pune,Maharashtra
+"Hadapsar, Pune - IITM",136,125,136,117,108,134,121,139,132,149,153,175,156,177,152,134,120,135,Pune,Maharashtra
+"Karve Road, Pune - MPCB",146,136,99,98,85,101,126,114,117,143,135,128,146,134,179,108,143,70,Pune,Maharashtra
+"Katraj Dairy, Pune - MPCB",107,107,107,104,203,278,166,204,221,161,234,259,193,186,173,158,132,122,Pune,Maharashtra
+"MIT-Kothrud, Pune - IITM",160,161,147,139,134,149,166,139,132,149,153,175,183,196,189,153,132,135,Pune,Maharashtra
+"Mhada Colony, Pune - IITM",83,163,124,120,109,124,125,119,123,135,131,142,159,166,168,140,127,126,Pune,Maharashtra
+"Panchawati_Pashan, Pune - IITM",105,108,91,87,90,100,166,139,132,149,153,175,183,196,189,153,98,99,Pune,Maharashtra
+"Revenue Colony-Shivajinagar, Pune - IITM",149,158,149,145,123,132,138,132,122,158,139,134,196,148,216,189,132,206,Pune,Maharashtra
+"Savitribai Phule Pune University, Pune - MPCB",273,269,215,190,173,149,229,203,188,266,198,210,238,228,301,118,132,217,Pune,Maharashtra
+"Transport Nagar-Nigdi, Pune - IITM",169,161,147,156,99,111,143,156,132,149,153,175,183,196,189,191,179,178,Pune,Maharashtra
+"Vijay Nagar, Sangli - MPCB",107,129,116,97,58,67,166,139,119,120,142,117,105,167,87,103,108,96,Sangli,Maharashtra
+"Dnyaneshwar Nagar, Solapur - MPCB",143,163,129,121,103,118,166,139,155,175,125,139,168,154,189,153,117,123,Solapur,Maharashtra
+"Ratandeep Housing Society, Solapur - MPCB",155,187,136,112,123,171,150,104,164,159,155,169,184,186,216,147,121,155,Solapur,Maharashtra
+"Solapur, Solapur - MPCB",112,161,108,112,92,114,94,96,118,98,100,107,106,119,114,107,112,95,Solapur,Maharashtra
+"Kasarvadavali, Thane - MPCB",129,131,130,127,128,132,140,119,106,125,132,146,143,147,153,153,134,135,Thane,Maharashtra
+"Upvan Fort, Thane - MPCB",157,175,130,156,142,145,206,118,89,132,164,181,187,247,189,101,89,95,Thane,Maharashtra
+"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",194,214,195,136,165,237,225,139,103,156,165,217,224,251,182,135,130,129,Ulhasnagar,Maharashtra
+"Bolinj, Virar - MPCB",116,127,144,169,110,196,255,186,112,172,162,209,241,234,204,145,111,110,Virar,Maharashtra
+"DM College of Science, Imphal - Manipur PCB",103,103,103,103,103,103,103,103,103,103,103,103,103,103,103,103,103,103,Imphal,Manipur
+"Manipur University, Imphal - Manipur PCB",103,103,103,103,103,103,103,103,103,103,103,103,103,103,103,103,103,103,Imphal,Manipur
+"JN Stadium, Shillong - Meghalaya PCB",48,56,34,42,48,48,48,48,48,29,48,84,48,48,48,54,43,42,Shillong,Meghalaya
+"Lumpyngngad, Shillong - Meghalaya PCB",48,56,34,42,48,48,48,48,48,29,48,84,48,48,48,54,43,42,Shillong,Meghalaya
+"Sikulpuikawn, Aizawl - Mizoram PCB",18,30,29,31,25,30,22,18,28,25,30,28,37,48,42,35,28,16,Aizawl,Mizoram
+"PWD Juction, Kohima - NPCB",63,60,63,63,63,82,75,60,58,58,57,57,57,73,62,61,71,52,Kohima,Nagaland
+"Hakimapada, Angul - OSPCB",129,192,157,132,199,170,162,157,170,156,154,167,177,194,239,209,174,208,Angul,Odisha
+"Kalidaspur, Balasore - OSPCB",73,82,124,173,223,103,93,94,152,135,159,169,248,177,221,246,230,264,Balasore,Odisha
+"Forest Office, Barbil - OSPCB",108,99,111,135,130,84,131,104,120,108,109,137,128,121,174,139,124,198,Barbil,Odisha
+"Meher Colony, Baripada - OSPCB",76,77,92,116,114,134,112,91,120,107,101,110,179,167,172,188,140,188,Baripada,Odisha
+"Lingraj Mandir, Bhubaneswar - OSPCB",85,86,173,212,290,235,142,151,147,178,136,175,178,208,196,234,221,205,Bhubaneswar,Odisha
+"Patia, Bhubaneswar - OSPCB",82,84,101,132,257,171,100,158,176,192,135,174,194,224,209,244,185,209,Bhubaneswar,Odisha
+"Tata Township, Bileipada - OSPCB",92,151,161,172,179,202,223,202,173,162,158,176,182,173,217,191,184,213,Bileipada,Odisha
+"GM Office, Brajrajnagar - OSPCB",73,74,78,78,83,86,124,126,141,151,98,106,112,118,109,100,83,92,Brajrajnagar,Odisha
+"Ferro Chrome Colony, Byasanagar - OSPCB",65,63,107,151,214,90,81,92,128,119,114,174,210,168,183,186,157,183,Byasanagar,Odisha
+"CDA Area, Cuttack - OSPCB",97,105,118,133,263,113,104,114,168,198,153,152,195,215,195,221,199,226,Cuttack,Odisha
+"Jagamohanpur, Keonjhar - OSPCB",74,35,42,65,64,62,63,60,60,66,69,78,82,70,74,75,75,80,Keonjhar,Odisha
+"Dabuna, Nayagarh - OSPCB",77,47,68,96,86,98,106,91,104,113,96,103,179,112,123,95,105,135,Nayagarh,Odisha
+"Divisional Forest Office, Rairangpur - OSPCB",95,95,95,128,118,112,108,93,141,151,135,98,174,144,164,156,145,169,Rairangpur,Odisha
+"Fertilizer Township, Rourkela - OSPCB",92,72,76,76,89,59,67,119,23,63,72,151,211,173,294,195,128,135,Rourkela,Odisha
+"Raghunathpali, Rourkela - OSPCB",127,94,121,132,165,199,152,140,139,228,220,234,219,242,278,216,225,212,Rourkela,Odisha
+"Sector-2, Rourkela - OSPCB",76,94,83,96,123,160,137,126,141,160,135,165,179,167,192,192,149,158,Rourkela,Odisha
+"OMC Colony, Suakati - OSPCB",89,106,115,132,162,134,124,126,148,171,139,157,169,164,196,205,169,209,Suakati,Odisha
+"Talcher Coalfields,Talcher - OSPCB",157,147,159,223,208,215,218,257,296,272,255,268,258,208,201,200,257,300,Talcher,Odisha
+"Barsua Iron Ore Mines, Tensa - OSPCB",95,96,125,127,114,132,111,99,135,151,135,138,140,131,211,141,131,193,Tensa,Odisha
+"Jawahar Nagar, Puducherry - PPCC",64,73,53,27,38,23,57,76,99,83,76,114,126,76,80,125,70,117,Puducherry,Puducherry
+"Golden Temple, Amritsar - PPCB",185,231,284,325,217,337,211,244,276,259,227,213,198,161,145,228,171,240,Amritsar,Punjab
+"Hardev Nagar, Bathinda - PPCB",171,127,150,192,156,228,167,214,151,134,123,179,102,113,178,137,91,110,Bathinda,Punjab
+"Civil Line, Jalandhar - PPCB",204,195,217,196,235,233,202,240,233,248,240,216,215,227,166,136,170,203,Jalandhar,Punjab
+"Kalal Majra, Khanna - PPCB",178,197,231,210,190,185,230,131,261,134,234,177,197,190,197,110,104,106,Khanna,Punjab
+"Punjab Agricultural University, Ludhiana - PPCB",201,194,204,211,164,221,245,328,215,237,269,268,235,276,166,173,218,258,Ludhiana,Punjab
+"RIMT University, Mandi Gobindgarh - PPCB",257,247,322,210,211,232,167,217,112,247,177,274,178,248,274,179,129,191,Mandi Gobindgarh,Punjab
+"Model Town, Patiala - PPCB",200,196,248,153,182,237,191,233,234,195,279,216,232,174,170,112,151,213,Patiala,Punjab
+"Ratanpura, Rupnagar - Ambuja Cements",197,192,192,213,213,153,144,106,127,116,134,129,151,180,131,107,113,105,Rupnagar,Punjab
+"Civil Lines,  Ajmer - RSPCB",91,79,87,95,97,110,97,103,101,98,128,114,112,107,93,111,100,100,Ajmer,Rajasthan
+"Moti Doongri, Alwar - RSPCB",114,104,100,107,108,88,86,262,192,148,130,99,111,106,101,100,114,114,Alwar,Rajasthan
+"Rati Talai, Banswara - RSPCB",120,130,130,150,137,155,109,121,113,153,114,193,209,178,158,103,102,100,Banswara,Rajasthan
+"Bamboliya, Baran - RSPCB",133,123,176,139,142,213,131,86,254,225,253,259,257,239,236,148,133,144,Baran,Rajasthan
+"Railway Colony, Barmer - RSPCB",97,87,111,104,141,172,136,135,86,86,104,133,137,130,99,122,160,125,Barmer,Rajasthan
+"Krishna Nagar, Bharatpur - RSPCB",156,163,143,184,179,102,96,229,251,213,157,148,236,87,98,126,127,121,Bharatpur,Rajasthan
+"Pratap Nagar, Bhilwara - RSPCB",112,159,162,123,146,175,90,92,158,177,248,265,218,222,158,129,140,127,Bhilwara,Rajasthan
+"RIICO Ind. Area III, Bhiwadi - RSPCB",274,233,327,329,329,293,308,446,402,359,334,223,247,168,165,230,248,204,Bhiwadi,Rajasthan
+"Vasundhara Nagar_UIT, Bhiwadi - RSPCB",273,227,307,368,276,175,171,444,324,304,217,199,247,135,192,166,167,319,Bhiwadi,Rajasthan
+"MM Ground, Bikaner - RSPCB",221,192,310,262,241,197,352,317,266,128,206,163,151,162,251,127,189,134,Bikaner,Rajasthan
+"New Colony, Bundi - RSPCB",108,134,145,151,204,186,144,131,165,195,221,230,203,202,174,132,149,159,Bundi,Rajasthan
+"Shastri Nagar, Chittorgarh - RSPCB",214,143,176,150,205,210,195,160,140,148,194,265,220,241,242,173,144,154,Chittorgarh,Rajasthan
+"Subash Chowk, Churu - RSPCB",365,189,229,273,220,211,286,445,201,215,280,225,201,180,189,209,191,161,Churu,Rajasthan
+"Khatikan Mohalla, Dausa - RSPCB",191,154,131,141,110,166,137,167,164,151,169,157,183,128,179,134,126,127,Dausa,Rajasthan
+"Raja Ganj, Dholpur - RSPCB",112,150,107,105,106,91,75,270,280,203,195,94,148,111,73,101,91,100,Dholpur,Rajasthan
+"Bhoiwada, Dungarpur - RSPCB",92,93,134,172,205,147,146,108,102,159,137,253,190,193,200,115,124,76,Dungarpur,Rajasthan
+"Housing Board, Hanumangarh - RSPCB",192,268,188,285,179,275,174,166,147,251,195,229,168,204,343,253,249,182,Hanumangarh,Rajasthan
+"Adarsh Nagar, Jaipur - RSPCB",198,142,105,111,91,116,103,142,162,202,233,131,149,121,128,123,109,100,Jaipur,Rajasthan
+"Mansarovar Sector-12, Jaipur - RSPCB",269,248,202,198,148,221,203,226,239,258,342,264,311,268,261,198,181,160,Jaipur,Rajasthan
+"Police Commissionerate, Jaipur - RSPCB",226,192,142,149,138,192,143,202,176,186,266,194,238,194,204,158,149,130,Jaipur,Rajasthan
+"RIICO Sitapura, Jaipur - RSPCB",285,264,211,217,212,233,235,209,259,186,195,257,310,273,270,217,209,182,Jaipur,Rajasthan
+"Sector-2 Murlipura, Jaipur - RSPCB",227,154,156,138,129,175,233,243,191,227,195,126,156,178,167,155,204,165,Jaipur,Rajasthan
+"Shastri Nagar, Jaipur - RSPCB",264,188,139,177,176,184,145,234,234,230,290,228,272,228,218,164,167,148,Jaipur,Rajasthan
+"Sadar Bazar, Jaisalmer - RSPCB",88,113,175,138,150,165,248,151,148,123,144,159,156,177,184,154,137,140,Jaisalmer,Rajasthan
+"Mudtra Sili, Jalore - RSPCB",116,135,132,149,141,196,119,124,117,130,124,167,167,191,141,150,140,154,Jalore,Rajasthan
+"Rajlaxmi Nagar, Jhalawar - RSPCB",92,93,118,165,144,121,128,125,208,241,256,262,202,240,242,175,134,132,Jhalawar,Rajasthan
+"Indra Nagar, Jhunjhunu - RSPCB",350,148,189,165,237,220,272,421,278,246,179,268,171,125,194,179,207,151,Jhunjhunu,Rajasthan
+"Collectorate, Jodhpur - RSPCB",169,232,179,164,184,235,249,252,189,134,170,268,249,294,186,227,269,150,Jodhpur,Rajasthan
+"Digari Kalan, Jodhpur - RSPCB",106,144,130,126,143,147,224,195,117,130,172,230,197,200,184,184,182,154,Jodhpur,Rajasthan
+"Jhalamand, Jodhpur - RSPCB",140,153,133,119,122,169,217,211,143,148,157,215,219,241,210,156,156,157,Jodhpur,Rajasthan
+"Mandor, Jodhpur - RSPCB",93,112,112,109,108,111,191,158,99,95,117,129,137,176,131,117,136,94,Jodhpur,Rajasthan
+"Samrat Ashok Udhyan, Jodhpur - RSPCB",132,173,180,154,172,203,232,196,140,139,148,224,200,236,181,171,235,121,Jodhpur,Rajasthan
+"Satyawati Vihar, Karauli - RSPCB",202,238,161,154,165,184,118,282,288,151,195,164,172,153,102,95,82,84,Karauli,Rajasthan
+"Dhanmandi, Kota - RSPCB",97,106,201,170,187,183,139,104,155,254,213,275,301,296,275,181,171,173,Kota,Rajasthan
+"Nayapura, Kota - RSPCB",116,121,189,117,169,165,121,100,134,213,191,274,307,296,301,198,166,154,Kota,Rajasthan
+"Shrinath Puram, Kota - RSPCB",144,136,168,198,281,173,161,197,158,310,295,303,203,206,206,234,229,247,Kota,Rajasthan
+"Karni Colony, Nagaur - RSPCB",157,210,156,139,189,171,271,227,167,177,209,255,234,233,252,271,265,164,Nagaur,Rajasthan
+"Indira Colony Vistar, Pali - RSPCB",152,128,138,135,150,198,172,182,104,124,175,224,184,187,170,162,157,140,Pali,Rajasthan
+"Pragati Nagar, Pratapgarh - RSPCB",95,90,107,109,95,95,98,73,89,167,125,233,179,196,150,115,111,96,Pratapgarh,Rajasthan
+"Dhoinda, Rajsamand - RSPCB",65,57,72,86,104,109,100,116,69,92,137,175,189,191,125,106,70,83,Rajsamand,Rajasthan
+"Sahu Nagar, Sawai Madhopur - RSPCB",185,217,200,159,184,162,155,144,166,203,192,179,198,191,205,136,173,128,Sawai Madhopur,Rajasthan
+"Radhakishan Pura, Sikar - RSPCB",315,183,170,217,185,186,292,363,233,253,255,226,207,201,216,184,233,137,Sikar,Rajasthan
+"Vedhaynath Colony, Sirohi - RSPCB",79,72,71,89,103,130,94,93,72,73,74,139,102,111,189,81,84,93,Sirohi,Rajasthan
+"Old City, Sri Ganganagar - RSPCB",179,282,139,291,114,291,167,199,116,283,222,171,228,248,273,191,250,191,Sri Ganganagar,Rajasthan
+"Shastri Nagar, Tonk - RSPCB",232,246,237,210,222,226,209,185,176,245,334,318,285,279,235,194,211,234,Tonk,Rajasthan
+"Ashok Nagar, Udaipur - RSPCB",111,111,135,138,148,141,131,136,128,126,122,241,197,193,170,141,114,118,Udaipur,Rajasthan
+"Zero Point GICI, Gangtok - SSPCB",63,63,63,73,58,65,65,56,63,63,63,63,63,63,63,63,63,63,Gangtok,Sikkim
+"Keelapalur, Ariyalur - TNPCB",51,70,20,13,15,21,14,63,75,79,75,81,89,81,71,124,105,115,Ariyalur,Tamil Nadu
+"Crescent University, Chengalpattu - TNPCB",61,72,68,41,39,76,65,94,66,53,62,58,64,95,72,67,71,84,Chengalpattu,Tamil Nadu
+"Alandur Bus Depot, Chennai - CPCB",133,126,72,79,71,93,198,236,267,231,218,285,277,206,200,279,222,227,Chennai,Tamil Nadu
+"Arumbakkam, Chennai - TNPCB",98,67,40,36,27,41,111,117,121,97,106,136,148,88,104,152,144,132,Chennai,Tamil Nadu
+"Gandhi Nagar_Ennore, Chennai - TNPCB",75,88,54,41,39,41,65,94,102,98,89,104,114,92,85,124,105,115,Chennai,Tamil Nadu
+"Kodungaiyur, Chennai - TNPCB",73,42,27,28,33,28,79,86,95,82,82,104,105,72,83,84,89,96,Chennai,Tamil Nadu
+"Manali Village, Chennai - TNPCB",105,75,47,51,51,63,130,143,150,131,133,104,84,81,69,101,107,81,Chennai,Tamil Nadu
+"Manali, Chennai - CPCB",120,88,50,58,46,53,117,120,124,107,113,130,127,99,107,118,116,119,Chennai,Tamil Nadu
+"Perungudi, Chennai - TNPCB",81,55,33,37,37,38,97,107,111,89,86,122,148,82,101,138,150,147,Chennai,Tamil Nadu
+"Royapuram, Chennai - TNPCB",68,39,19,22,25,22,93,101,94,73,71,110,125,75,97,111,132,135,Chennai,Tamil Nadu
+"Velachery Res. Area, Chennai - CPCB",65,60,46,44,52,48,75,63,53,60,76,93,75,55,55,66,49,49,Chennai,Tamil Nadu
+"PSG College of Arts and Science, Coimbatore - TNPCB",107,157,75,33,24,36,31,94,133,152,153,132,155,155,106,152,101,123,Coimbatore,Tamil Nadu
+"SIDCO Kurichi, Coimbatore - TNPCB",62,94,69,35,39,37,33,40,74,82,99,82,89,83,60,89,68,76,Coimbatore,Tamil Nadu
+"Kudikadu, Cuddalore - TNPCB",75,88,54,41,39,41,65,94,102,98,89,104,114,92,85,124,105,115,Cuddalore,Tamil Nadu
+"Semmandalam, Cuddalore - TNPCB",74,82,24,31,30,27,39,120,102,98,89,54,40,45,35,124,105,115,Cuddalore,Tamil Nadu
+"Mendonsa Colony, Dindigul - TNPCB",98,135,93,35,42,43,37,110,139,143,134,151,158,135,128,124,109,124,Dindigul,Tamil Nadu
+"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",135,142,54,52,126,117,204,239,253,187,156,227,238,160,163,266,308,202,Gummidipoondi,Tamil Nadu
+"SIPCOT Phase-1, Hosur - TNPCB",75,88,54,41,39,41,65,94,102,98,89,104,114,92,85,124,105,115,Hosur,Tamil Nadu
+"Kilambi, Kanchipuram - TNPCB",75,88,54,42,41,54,34,16,34,40,30,45,114,92,85,124,105,115,Kanchipuram,Tamil Nadu
+"Kamadenu Nagar, Karur - TNPCB",59,109,58,23,27,28,27,79,114,118,123,104,131,105,93,140,87,126,Karur,Tamil Nadu
+"Uchapatti, Madurai - TNPCB",42,52,52,61,37,27,43,32,83,75,64,85,73,62,64,103,47,56,Madurai,Tamil Nadu
+"Velippalayam, Nagapattinam - TNPCB",54,67,54,41,39,41,65,94,84,71,60,95,97,92,85,124,105,115,Nagapattinam,Tamil Nadu
+"Bombay Castel, Ooty - TNPCB",75,91,47,26,26,41,65,94,76,71,39,79,114,102,79,124,105,115,Ooty,Tamil Nadu
+"Bharathidasan University, Palkalaiperur - TNPCB",45,69,30,18,15,19,65,77,102,72,68,76,85,77,67,93,105,115,Palkalaiperur,Tamil Nadu
+"SIPCOT Industrial Park, Perundurai - TNPCB",60,152,66,73,54,36,58,71,108,107,108,113,131,114,80,100,91,134,Perundurai,Tamil Nadu
+"SIPCOT Nathampannai, Pudukottai - TNPCB",90,114,66,59,24,39,32,115,118,107,58,109,121,105,99,124,90,115,Pudukottai,Tamil Nadu
+"Chalai Bazaar, Ramanathapuram - TNPCB",56,79,70,41,24,20,18,45,50,60,56,104,114,67,63,99,38,64,Ramanathapuram,Tamil Nadu
+"VOC Nagar_SIPCOT, Ranipet - TNPCB",75,88,54,25,28,23,52,93,124,133,89,119,136,92,85,173,105,151,Ranipet,Tamil Nadu
+"Sona College of Technology, Salem - TNPCB",66,88,54,41,39,41,65,94,102,98,89,104,114,92,85,124,105,115,Salem,Tamil Nadu
+"Parisutham Nagar, Thanjavur - TNPCB",38,37,35,37,42,43,44,44,31,39,45,46,49,50,56,124,105,115,Thanjavur,Tamil Nadu
+"Meelavittan, Thoothukudi - TNPCB",52,72,87,35,25,24,21,44,56,67,57,70,91,65,56,84,36,68,Thoothukudi,Tamil Nadu
+"St Joseph College, Tiruchirappalli - TNPCB",51,82,34,24,19,21,26,82,85,90,84,72,72,72,72,72,72,72,Tiruchirappalli,Tamil Nadu
+"Municipal Corporation Office, Tirunelveli - TNPCB",32,32,25,24,20,21,27,94,33,98,26,32,27,27,26,124,105,115,Tirunelveli,Tamil Nadu
+"Kumaran College, Tirupur - TNPCB",116,156,125,120,124,61,63,71,107,126,117,104,139,112,91,117,87,149,Tirupur,Tamil Nadu
+"Vasanthapuram, Vellore - TNPCB",85,100,27,26,37,44,69,139,102,98,89,104,114,92,85,124,105,115,Vellore,Tamil Nadu
+"Collectorate Office, Virudhunagar - TNPCB",80,125,109,45,26,32,65,94,102,120,99,123,121,107,100,124,105,115,Virudhunagar,Tamil Nadu
+"Bollaram Industrial Area, Hyderabad - TSPCB",97,116,94,92,91,100,112,111,116,119,115,131,143,137,127,118,113,154,Hyderabad,Telangana
+"Central University, Hyderabad - TSPCB",78,121,94,68,90,105,116,118,97,88,123,124,127,148,131,130,119,119,Hyderabad,Telangana
+"ECIL Kapra, Hyderabad - TSPCB",79,84,87,83,108,86,83,83,90,89,90,86,86,94,91,95,83,78,Hyderabad,Telangana
+"ICRISAT Patancheru, Hyderabad - TSPCB",157,170,137,93,111,135,162,157,164,159,164,175,163,168,167,165,148,148,Hyderabad,Telangana
+"IDA Pashamylaram, Hyderabad - TSPCB",151,162,141,124,129,139,156,156,163,157,167,166,162,159,167,162,159,149,Hyderabad,Telangana
+"IITH Kandi, Hyderabad - TSPCB",106,95,85,79,80,84,88,103,102,97,119,102,101,105,102,115,101,81,Hyderabad,Telangana
+"Kokapet, Hyderabad - TSPCB",106,118,52,113,100,106,72,113,70,77,57,95,89,98,53,74,73,71,Hyderabad,Telangana
+"Kompally Municipal Office, Hyderabad - TSPCB",85,100,81,78,87,84,84,87,90,90,95,60,61,59,77,79,101,91,Hyderabad,Telangana
+"Nacharam_TSIIC IALA, Hyderabad - TSPCB",66,42,77,78,86,77,103,77,78,64,76,91,69,83,60,78,86,64,Hyderabad,Telangana
+"New Malakpet, Hyderabad - TSPCB",87,122,91,85,100,100,89,99,114,111,74,65,69,79,68,73,74,65,Hyderabad,Telangana
+"Ramachandrapuram, Hyderabad - TSPCB",106,86,80,85,74,74,82,119,81,80,76,69,89,81,80,78,69,87,Hyderabad,Telangana
+"Sanathnagar, Hyderabad - TSPCB",159,254,99,72,125,155,202,161,184,177,192,245,247,277,242,182,63,78,Hyderabad,Telangana
+"Somajiguda, Hyderabad - TSPCB",106,122,98,92,85,90,79,119,85,76,102,108,80,95,82,104,75,104,Hyderabad,Telangana
+"Zoo Park, Hyderabad - TSPCB",106,122,162,151,141,154,164,165,166,173,163,165,160,166,163,168,159,168,Hyderabad,Telangana
+"Bardowali, Agartala - Tripura SPCB",94,102,134,113,124,150,228,231,98,146,117,162,160,201,227,245,189,153,Agartala,Tripura
+"Kunjaban, Agartala - Tripura SPCB",94,102,134,113,124,150,228,231,98,146,117,162,160,201,227,245,189,153,Agartala,Tripura
+"Manoharpur, Agra - UPPCB",83,115,112,181,223,85,87,212,250,89,90,89,132,115,74,89,86,90,Agra,Uttar Pradesh
+"Rohta, Agra - UPPCB",58,100,82,101,137,96,82,234,262,137,119,104,151,140,68,97,95,110,Agra,Uttar Pradesh
+"Sanjay Palace, Agra - UPPCB",129,146,179,178,218,109,204,236,263,236,159,169,274,196,126,133,143,161,Agra,Uttar Pradesh
+"Sector-3B Avas Vikas Colony, Agra - UPPCB",102,141,146,152,198,148,124,254,265,112,116,142,217,181,119,120,127,154,Agra,Uttar Pradesh
+"Shahjahan Garden, Agra - UPPCB",73,153,134,145,193,135,114,263,260,102,115,120,156,130,91,186,113,143,Agra,Uttar Pradesh
+"Shastripuram, Agra - UPPCB",168,171,121,169,234,138,119,262,261,119,122,112,154,140,89,112,108,136,Agra,Uttar Pradesh
+"New Collectorate, Baghpat - UPPCB",168,173,197,203,232,206,204,236,263,216,175,174,200,187,164,186,151,159,Baghpat,Uttar Pradesh
+"Sardar Patel Inter College, Baghpat - UPPCB",245,226,327,232,274,321,227,236,404,323,192,214,290,260,188,243,158,160,Baghpat,Uttar Pradesh
+"Civil Lines, Bareilly - UPPCB",72,72,79,96,82,73,90,71,75,63,175,65,70,70,72,186,66,90,Bareilly,Uttar Pradesh
+"Rajendra Nagar, Bareilly - UPPCB",140,131,158,205,82,76,94,72,78,63,67,71,76,81,73,102,67,84,Bareilly,Uttar Pradesh
+"Yamunapuram, Bulandshahr - UPPCB",209,209,259,276,341,259,296,367,431,327,267,208,248,252,135,270,154,232,Bulandshahr,Uttar Pradesh
+"Nagla Bhau, Firozabad - UPPCB",63,106,89,100,164,89,92,173,286,175,93,112,160,138,85,100,91,86,Firozabad,Uttar Pradesh
+"Vibhab Nagar, Firozabad - UPPCB",46,89,71,81,112,70,91,170,263,143,85,113,130,106,74,95,80,80,Firozabad,Uttar Pradesh
+"Indirapuram, Ghaziabad - UPPCB",216,207,281,372,322,303,294,377,406,268,201,252,265,197,140,212,238,285,Ghaziabad,Uttar Pradesh
+"Loni, Ghaziabad - UPPCB",282,279,309,392,413,427,416,456,492,439,396,174,462,348,255,323,245,274,Ghaziabad,Uttar Pradesh
+"Sanjay Nagar, Ghaziabad - UPPCB",205,215,271,294,299,290,326,402,465,329,261,256,302,311,210,281,189,163,Ghaziabad,Uttar Pradesh
+"Vasundhara, Ghaziabad - UPPCB",305,316,363,381,392,400,382,443,463,351,287,357,365,270,208,284,180,247,Ghaziabad,Uttar Pradesh
+"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",153,169,173,162,167,163,179,149,148,155,181,146,154,193,154,199,169,134,Gorakhpur,Uttar Pradesh
+"Knowledge Park - III, Greater Noida - UPPCB",281,285,342,247,224,217,358,379,381,283,202,217,272,297,189,305,176,252,Greater Noida,Uttar Pradesh
+"Knowledge Park - V, Greater Noida - UPPCB",282,277,343,305,324,349,316,354,396,387,225,273,331,257,233,220,274,308,Greater Noida,Uttar Pradesh
+"Anand Vihar, Hapur - UPPCB",251,243,288,348,368,346,349,403,439,393,263,258,344,313,314,292,235,147,Hapur,Uttar Pradesh
+"Shivaji Nagar, Jhansi - UPPCB",84,92,146,110,123,92,89,135,176,124,138,129,127,130,106,107,107,115,Jhansi,Uttar Pradesh
+"FTI Kidwai Nagar, Kanpur - UPPCB",138,119,172,174,252,101,198,111,180,235,127,111,119,139,118,110,112,138,Kanpur,Uttar Pradesh
+"IITK, Kanpur - IITK",168,173,197,203,232,206,204,236,263,216,175,174,200,187,164,186,151,159,Kanpur,Uttar Pradesh
+"NSI Kalyanpur, Kanpur - UPPCB",196,158,180,198,217,206,210,145,208,231,149,132,108,132,130,112,80,110,Kanpur,Uttar Pradesh
+"Nehru Nagar, Kanpur - UPPCB",176,174,208,181,263,181,196,140,239,306,212,165,115,176,149,135,139,68,Kanpur,Uttar Pradesh
+"Kalindi Kunj, Khurja - UPPCB",158,170,279,203,265,215,257,324,400,304,175,209,266,240,180,245,148,224,Khurja,Uttar Pradesh
+"B R Ambedkar University, Lucknow - UPPCB",186,205,128,186,214,218,189,189,205,264,205,186,125,121,182,133,207,181,Lucknow,Uttar Pradesh
+"Gomti Nagar, Lucknow - UPPCB",172,184,188,203,275,216,171,128,272,269,255,200,107,192,226,168,133,170,Lucknow,Uttar Pradesh
+"Kendriya Vidyalaya, Lucknow - CPCB",257,290,319,328,309,346,285,289,317,268,317,286,279,236,296,269,261,278,Lucknow,Uttar Pradesh
+"Kukrail Picnic Spot-1, Lucknow - UPPCB",163,179,163,186,181,190,155,177,197,265,242,194,93,112,157,109,134,163,Lucknow,Uttar Pradesh
+"Lalbagh, Lucknow - CPCB",304,308,320,305,326,353,313,318,336,216,377,358,297,305,340,322,307,277,Lucknow,Uttar Pradesh
+"Talkatora District Industries Center, Lucknow - CPCB",300,273,288,272,309,324,289,288,242,318,307,260,255,259,271,254,315,275,Lucknow,Uttar Pradesh
+"Ganga Nagar, Meerut - UPPCB",137,143,166,217,265,259,221,280,340,253,134,154,225,251,159,250,164,159,Meerut,Uttar Pradesh
+"Jai Bhim Nagar, Meerut - UPPCB",261,250,333,203,375,379,295,347,409,323,212,237,304,330,291,329,234,229,Meerut,Uttar Pradesh
+"Pallavpuram Phase 2, Meerut - UPPCB",244,173,322,368,381,395,328,378,406,273,160,189,246,273,242,274,189,172,Meerut,Uttar Pradesh
+"Buddhi Vihar, Moradabad - UPPCB",118,111,136,171,178,158,204,236,167,118,91,106,118,112,176,218,91,99,Moradabad,Uttar Pradesh
+"Eco Herbal Park, Moradabad - UPPCB",148,123,134,180,188,162,256,185,153,134,104,102,121,127,206,267,161,141,Moradabad,Uttar Pradesh
+"Employment Office, Moradabad - UPPCB",148,151,120,195,200,206,220,132,142,125,111,95,125,106,174,204,100,112,Moradabad,Uttar Pradesh
+"Jigar Colony, Moradabad - UPPCB",100,98,98,127,247,107,117,107,102,91,70,70,75,84,128,129,103,89,Moradabad,Uttar Pradesh
+"Kashiram Nagar, Moradabad - UPPCB",160,158,165,158,208,195,266,178,168,170,114,139,169,171,220,247,123,138,Moradabad,Uttar Pradesh
+"Lajpat Nagar, Moradabad - UPPCB",168,173,197,203,232,206,204,236,263,216,175,174,200,187,164,186,151,159,Moradabad,Uttar Pradesh
+"Transport Nagar, Moradabad - UPPCB",119,141,131,147,179,164,212,123,126,103,84,90,110,139,156,201,99,108,Moradabad,Uttar Pradesh
+"New Mandi, Muzaffarnagar - UPPCB",242,260,265,262,356,383,229,261,278,284,152,255,250,257,248,244,247,184,Muzaffarnagar,Uttar Pradesh
+"Sector - 125, Noida - UPPCB",170,198,197,203,312,252,279,371,370,324,268,260,313,223,164,244,151,159,Noida,Uttar Pradesh
+"Sector - 62, Noida - IMD",307,306,361,376,389,395,372,461,473,391,309,342,200,340,278,186,264,289,Noida,Uttar Pradesh
+"Sector-1, Noida - UPPCB",185,171,269,332,331,366,262,423,374,277,197,285,342,269,213,244,119,157,Noida,Uttar Pradesh
+"Sector-116, Noida - UPPCB",291,261,306,349,324,270,263,383,395,297,233,276,341,227,188,312,221,265,Noida,Uttar Pradesh
+"Jhunsi, Prayagraj - UPPCB",120,130,128,129,90,69,89,95,110,108,95,117,125,93,110,97,106,138,Prayagraj,Uttar Pradesh
+"Motilal Nehru NIT, Prayagraj - UPPCB",88,97,197,84,95,82,86,92,96,155,121,123,151,98,112,100,117,102,Prayagraj,Uttar Pradesh
+"Nagar Nigam, Prayagraj - UPPCB",108,122,113,84,94,77,88,92,102,137,115,144,143,105,126,119,140,140,Prayagraj,Uttar Pradesh
+"Ardhali Bazar, Varanasi - UPPCB",84,91,81,84,159,99,102,122,157,145,153,132,195,119,73,96,135,74,Varanasi,Uttar Pradesh
+"Bhelupur, Varanasi - UPPCB",90,100,99,90,107,94,91,111,121,120,122,113,142,146,97,60,65,68,Varanasi,Uttar Pradesh
+"IESD Banaras Hindu University, Varanasi - UPPCB",81,54,51,45,57,46,48,58,64,74,75,64,81,83,62,57,65,62,Varanasi,Uttar Pradesh
+"Maldahiya, Varanasi - UPPCB",86,108,93,103,107,87,83,116,136,140,141,125,200,203,100,59,68,68,Varanasi,Uttar Pradesh
+"Omex Eternity, Vrindavan - UPPCB",150,146,159,133,179,161,141,232,191,118,101,133,192,156,131,144,125,165,Vrindavan,Uttar Pradesh
+"Doon University, Dehradun - UKPCB",292,257,276,289,202,217,176,70,116,94,82,77,83,113,146,141,101,89,Dehradun,Uttarakhand
+"Govt. Girls Inter College, Kashipur - UKPCB",99,159,144,207,148,168,118,70,149,85,85,56,89,74,155,135,132,88,Kashipur,Uttarakhand
+"Shivaji Nagar, Rishikesh - UKPCB",210,153,145,140,90,116,104,52,90,89,54,58,64,77,88,116,80,60,Rishikesh,Uttarakhand
+"Asansol Court Area, Asansol - WBPCB",121,139,231,304,293,281,287,274,209,217,218,310,298,319,346,313,306,277,Asansol,West Bengal
+"Evelyn Lodge, Asansol - WBPCB",142,143,223,228,291,267,292,271,238,222,239,285,287,310,335,318,325,195,Asansol,West Bengal
+"Mahabir Colliery, Asansol - WBPCB",99,122,188,214,220,190,246,212,221,193,216,232,251,288,325,318,318,195,Asansol,West Bengal
+"Trivenidevi Bhalotia College, Asansol - WBPCB",198,195,288,228,319,289,325,297,280,252,272,309,322,358,371,377,382,317,Asansol,West Bengal
+"SVSPA Campus, Barrackpore - WBPCB",74,81,101,294,285,243,286,264,248,230,223,246,307,305,320,371,325,197,Barrackpore,West Bengal
+"Mahishkapur Road_B-Zone, Durgapur - WBPCB",104,194,209,228,325,299,324,286,265,240,270,214,329,343,368,390,359,327,Durgapur,West Bengal
+"PCBL Residential Complex, Durgapur - WBPCB",114,216,236,228,337,319,350,300,260,261,279,299,322,340,374,405,359,321,Durgapur,West Bengal
+"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",99,170,197,301,331,279,308,230,217,180,191,236,288,305,329,386,346,246,Durgapur,West Bengal
+"Priyambada Housing Estate, Haldia - WBPCB",348,80,99,195,226,177,215,218,204,198,157,181,235,254,252,326,294,179,Haldia,West Bengal
+"Belur Math, Howrah - WBPCB",77,95,104,226,200,161,202,181,222,206,165,175,240,246,246,272,242,153,Howrah,West Bengal
+"Botanical Garden, Howrah - WBPCB",84,122,115,283,247,265,285,284,281,292,260,265,319,268,272,314,285,195,Howrah,West Bengal
+"Dasnagar, Howrah - WBPCB",96,144,137,286,284,259,277,285,277,283,265,267,315,321,332,388,351,271,Howrah,West Bengal
+"Ghusuri, Howrah - WBPCB",79,145,181,297,322,294,293,273,293,279,311,293,340,339,322,396,343,232,Howrah,West Bengal
+"Padmapukur, Howrah - WBPCB",89,145,109,271,267,238,270,256,251,275,261,242,287,317,327,370,353,257,Howrah,West Bengal
+"Ballygunge, Kolkata - WBPCB",89,98,120,243,284,255,271,245,203,209,182,211,269,267,255,320,281,135,Kolkata,West Bengal
+"Bidhannagar, Kolkata - WBPCB",156,156,97,195,244,202,239,210,139,166,142,165,213,221,149,301,170,84,Kolkata,West Bengal
+"Fort William, Kolkata - WBPCB",77,95,112,204,215,190,220,192,226,215,199,194,258,260,259,267,243,124,Kolkata,West Bengal
+"Jadavpur, Kolkata - WBPCB",91,94,108,192,184,158,182,195,178,164,138,129,153,178,161,241,197,130,Kolkata,West Bengal
+"Rabindra Bharati University, Kolkata - WBPCB",68,92,95,138,146,154,141,134,195,141,135,135,252,186,159,229,245,162,Kolkata,West Bengal
+"Rabindra Sarobar, Kolkata - WBPCB",53,55,68,155,146,120,154,138,138,123,124,113,155,193,178,271,221,109,Kolkata,West Bengal
+"Victoria, Kolkata - WBPCB",81,88,108,228,192,155,175,162,187,183,155,154,223,232,220,288,261,136,Kolkata,West Bengal
+"Ward-32 Bapupara, Siliguri - WBPCB",55,75,84,91,87,101,92,82,70,67,68,62,68,65,90,67,79,58,Siliguri,West Bengal
